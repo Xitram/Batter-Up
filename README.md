@@ -1,2 +1,3 @@
-# Budjet-Organizer
-First ever newb project. Processes through a budjet note and lets me give input to sort it into an excel sheet.
+# Ideas for days, skills for none. These are some of my first projects
+
+All ideas and constructive criticism readily welcomed!
